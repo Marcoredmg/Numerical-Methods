@@ -58,7 +58,7 @@ app = Tk()
 app.title("Interpolacion de Newton")
 
 index = Frame(app)
-index.grid(row=0, column=0, padx=(80, 80), pady=(50, 50))
+index.grid(row=0, column=0, padx=(150, 150), pady=(100, 100))
 index.columnconfigure(0, weight=1)
 index.rowconfigure(0, weight=1)
 
